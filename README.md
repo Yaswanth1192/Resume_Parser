@@ -22,4 +22,4 @@ This project is part of my internship task. It is a simple web application that 
 
 ## 🚀 How It Works
 1. Run the Flask app using `python app.py`
-2. Open your browser and go to: http://
+2. Open your browser and go to: http://127.0.0.1:5000
